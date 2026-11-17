@@ -34,6 +34,24 @@
 					<var>VB
 						<value>0.7</value>
 					</var>
+					<var>W34
+						<value>6.42*L34</value>
+					</var>
+					<var>L34
+						<value>1.2u</value>
+					</var>
+					<var>W7
+						<value>33.06*L7</value>
+					</var>
+					<var>L7
+						<value>1.6u</value>
+					</var>
+					<var>W6
+						<value>95u</value>
+					</var>
+					<var>Cc
+						<value>0.35p:0.05p:0.6p</value>
+					</var>
 				</vars>
 				<outputs>
 					<output>OP("/I0/NM0" "gm")
