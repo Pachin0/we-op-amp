@@ -38,7 +38,7 @@
 						<value>6.42*L34</value>
 					</var>
 					<var>L34
-						<value>1.2u</value>
+						<value>1.6u</value>
 					</var>
 					<var>W7
 						<value>33.06*L7</value>
@@ -47,10 +47,19 @@
 						<value>1.6u</value>
 					</var>
 					<var>W6
-						<value>95u</value>
+						<value>64.2u</value>
 					</var>
 					<var>Cc
-						<value>0.35p:0.05p:0.6p</value>
+						<value>0.5p</value>
+					</var>
+					<var>R
+						<value>4k</value>
+					</var>
+					<var>W12
+						<value>L12*1.89</value>
+					</var>
+					<var>L12
+						<value>1.6u</value>
 					</var>
 				</vars>
 				<outputs>
